@@ -1,0 +1,24 @@
+
+.question-label {
+    -fx-font-weight: bold;
+    -fx-text-fill: #333;
+}
+
+.option-button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+}
+
+.feedback-label {
+    -fx-font-weight: bold;
+    -fx-text-fill: #333;
+}
+
+.score-label {
+    -fx-font-weight: bold;
+    -fx-text-fill: #333;
+}
+.root {
+    -fx-background-color: #d3d3d3;
+}
+
